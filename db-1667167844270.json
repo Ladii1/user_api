@@ -1,0 +1,10 @@
+{
+  "users": [
+    {
+      "slackUsername": "faruqawe201",
+      "backend": "True",
+      "age": 30,
+      "bio": "i am a fullstack developer"
+    }
+  ]
+}
